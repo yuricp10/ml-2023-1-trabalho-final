@@ -1,7 +1,7 @@
 # Trabalho final
 
-* Nome do Aluno: ________
-* Número de Matrícula: ________
+* Nome do Aluno: Yuri Carneiro Parente
+* Número de Matrícula: 2018113160
 * Disciplina: Aprendizado de Máquina
 * Semestre: 2023/1
 * Data da entrega: 28/06/2023
@@ -37,3 +37,5 @@ Escrever um artigo entre 3 e 5 páginas a respeito da técnica utilizada. O arti
 * Detalhamento e justificativa das metodologias utilizadas;
 * Análise dos códigos entregues;
 * Apresentação expositiva dos resultados.
+
+
