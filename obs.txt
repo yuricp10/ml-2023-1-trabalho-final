@@ -1,0 +1,3 @@
+obs: Professor, entreguei todos os trabalhos no git, porém os dois primeiros entreguei em uma branch sem ser a master, então não sei se aparece logo de cara para o senhor. Acredito que sim, mas de qualquer forma achei justo avisar.
+
+Além disso enviei o PDF do artigo aqui nas pasta junto com o código.
